@@ -113,13 +113,13 @@ class MemberDirectory_Plugin extends MemberDirectory_LifeCycle {
 
 
         // Add Taxonomies
-        include_once('member-directory-taxonomies.php');
+        include 'member-directory-taxonomies.php';
 
         // Add Custom Post Types
-        include_once('member-directory-custom-post-types.php');
+        include 'member-directory-custom-post-types.php';
 
         // Add Advanced Custom Fields
-        include_once('member-directory-acf.php');
+        include 'member-directory-acf.php';
 
     }
 
