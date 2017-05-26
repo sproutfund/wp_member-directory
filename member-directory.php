@@ -4,7 +4,7 @@
    Plugin URI: https://github.com/sproutfund/wp_member-directory
    Version: 0.1
    Author: Matt Hannigan
-   Description: 
+   Description: A WordPress plugin for a network member directory.
    Text Domain: member-directory
    License: GPLv3
   */
